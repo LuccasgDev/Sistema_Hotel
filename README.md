@@ -54,6 +54,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Se você tiver perguntas ou precisar de mais informações, por favor, entre em contato pelo e-mail [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Se você tiver perguntas ou precisar de mais informações, por favor, entre em contato pelo e-mail [luccas.dev@gmail.com](mailto:luccas.dev@gmail.com).
 
 ---
